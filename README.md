@@ -2,7 +2,7 @@
 <h3 align="center">A young but experienced full-stack engineer</h3>
 
 
-- 🔭 I’m currently working on **an Uber-style startup.**
+- 🔭 I’m currently working on **an Wolt-style startup.**
 
 - 🌱 I’m currently learning **NextJS**
 
