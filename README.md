@@ -2,9 +2,9 @@
 <h3 align="center">A young but experienced full-stack engineer</h3>
 
 
-- 🔭 I’m currently working on **an Wolt-style startup.**
+- 🔭 I’m currently working on **a SaaS startup.**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **client acquisiton**
 
 - 👨‍💻 You can learn more about me at [my website](http://mateo-sindicic.vercel.app)
 
