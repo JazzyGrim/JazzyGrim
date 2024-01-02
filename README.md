@@ -2,15 +2,15 @@
 <h3 align="center">A young but experienced full-stack engineer</h3>
 
 
-- 🔭 I’m currently working on **a SaaS startup.**
+- 🔭 I’m currently working on **[my YouTube channel](https://www.youtube.com/@sindo_dev)**
 
-- 🌱 I’m currently learning **client acquisiton**
+- 🌱 I’m currently learning **Software Architecture**
 
-- 👨‍💻 You can learn more about me at [my website](http://mateo-sindicic.vercel.app)
+- 👨‍💻 You can learn more about me at [my website](https:/sindo.dev)
 
 - 💬 Ask me about **anything JavaScript related, or C++ if you're feeling adventurous!**
 
-- 📫 How to reach me **mateo.sindicic@gmail.com**
+- 📫 How to reach me **sindoonyt@gmail.com**
 
 - ⚡ Fun fact **I really like Vim :)**
 
